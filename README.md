@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Team Members
+
+- **Doan Ngoc Binh Minh**
+- **Tran Gia Bao**
+- **Tran An Nguyen**
+
 ## Getting Started
 
 First, run the development server:
@@ -19,6 +25,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Special features
+
+- **Supports Latex, Markdown, and Keyboard Input**: You can enter mathematical formulas using Latex or Markdown formats, as well as quickly perform calculations using the keyboard.
+
+- **Remembers Previous Calculations**: The app keeps track of your previous calculations, making it easy to reference and reuse them as needed.
+
+- **Unit Conversion**: The application allows you to convert between various measurement units, including length, weight, temperature, etc.., enhancing your efficiency.
 
 ## Learn More
 
